@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueWASIdnty.Server", "BlueWASIdnty\Server\BlueWASIdnty.Server.csproj", "{F16600B4-365B-4887-BE29-B12A5D0ED76C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueWASIdnty.Server", "BlueWASIdnty\Server\BlueWASIdnty.Server.csproj", "{F16600B4-365B-4887-BE29-B12A5D0ED76C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueWASIdnty.Client", "BlueWASIdnty\Client\BlueWASIdnty.Client.csproj", "{7067D82C-5AB5-42B4-8A6D-C1CD5EE370B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueWASIdnty.Client", "BlueWASIdnty\Client\BlueWASIdnty.Client.csproj", "{7067D82C-5AB5-42B4-8A6D-C1CD5EE370B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueWASIdnty.Shared", "BlueWASIdnty\Shared\BlueWASIdnty.Shared.csproj", "{DEAB3B51-B551-4536-8A5C-A199BB076156}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueWASIdnty.Shared", "BlueWASIdnty\Shared\BlueWASIdnty.Shared.csproj", "{DEAB3B51-B551-4536-8A5C-A199BB076156}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
